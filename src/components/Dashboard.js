@@ -444,25 +444,25 @@ export const Dashboard = () => {
                     <tbody>
                       <tr>
                         <td>1</td>
-                        <td>Bob Williams</td>
+                        <td>Abhishek Pandey</td>
                         <td>$23,566</td>
-                        <td>USA</td>
+                        <td>India</td>
                       </tr>
                       <tr>
                         <td>2</td>
-                        <td>Mike Tyson</td>
+                        <td>Kanishk Dadhich</td>
                         <td>$10,200</td>
-                        <td>Canada</td>
+                        <td>India</td>
                       </tr>
                       <tr>
                         <td>3</td>
-                        <td>Tim Sebastian</td>
+                        <td>Prajjwal Suhane</td>
                         <td>$32,190</td>
-                        <td>Netherlands</td>
+                        <td>India</td>
                       </tr>
                       <tr>
                         <td>4</td>
-                        <td>Philip Morris</td>
+                        <td>Shivam Pratap Singh</td>
                         <td>$31,123</td>
                         <td>Korea, South</td>
                       </tr>
