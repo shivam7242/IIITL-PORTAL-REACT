@@ -6,6 +6,7 @@ import { LandingPage } from './components/LandingPage';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { LeaveRequest } from './components/LeaveRequest';
+import { Profiles } from './components/Profiles';
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
         <Route path="/" element={<Dashboard />} />
         <Route path="/landingPage" element={<LandingPage />} />
         <Route path="/leaveRequest" element={<LeaveRequest />} />
+        <Route path="/profile" element={<Profiles />} />
+
       </Routes>
       <Footer />
     </div>
