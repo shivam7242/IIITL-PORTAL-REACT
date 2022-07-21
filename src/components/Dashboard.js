@@ -468,19 +468,19 @@ export const Dashboard = () => {
                       </tr>
                       <tr>
                         <td>5</td>
-                        <td>Minerva Hooper</td>
+                        <td>Om Srivastava</td>
                         <td>$23,789</td>
                         <td>South Africa</td>
                       </tr>
                       <tr>
                         <td>6</td>
-                        <td>Hulk Hogan</td>
+                        <td>Prince Singh</td>
                         <td>$43,120</td>
                         <td>Netherlands</td>
                       </tr>
                       <tr>
                         <td>7</td>
-                        <td>Angelina Jolie </td>
+                        <td>Vibhor Gupta </td>
                         <td>$12,140</td>
                         <td>Australia</td>
                       </tr>
